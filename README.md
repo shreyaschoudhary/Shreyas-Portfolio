@@ -4,7 +4,7 @@ An emerging data science professional.
 
 
 
-# Project 1: Redesigning the data science education for UofT 
+# [Project 1: Redesigning the data science education for UofT](https://github.com/shreyaschoudhary/Redesigning-the-Data-Science-Education) 
 • Made use of Kaggle Machine Learning and Data Science Survey 2019 for data science skillset identification.
 
 • Engineered skills from the job descriptions of the scrapped data from the job websites such as LinkedIn, Indeed. 
