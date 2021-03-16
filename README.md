@@ -15,8 +15,8 @@ An emerging data science professional.
 
 • Made use of scraping libraries such as beautifulsoup, scrapy and standard libraries such as NumPy, scikit-learn.
 
-![](https://github.com/shreyaschoudhary/Shreyas_Portfolio/blob/main/images/incubation%20days-%20histogram.png)
-![](https://github.com/shreyaschoudhary/Shreyas_Portfolio/blob/main/images/Research%20papers%20abstract%20wordcloud.png)
+![](/images/incubation%20days-%20histogram.png)
+![](/images/Research%20papers%20abstract%20wordcloud.png)
 
 
 # [Project 2: Finding Insights for COVID-19 (Kaggle CORD-19 Dataset)](https://github.com/shreyaschoudhary/CORD--19-Kaggle-Challenge---Deriving-Insights-for-COVID-19-Combat)
