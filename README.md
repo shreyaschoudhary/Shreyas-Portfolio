@@ -15,7 +15,6 @@ An emerging data science professional.
 
 • Made use of scraping libraries such as beautifulsoup, scrapy and standard libraries such as NumPy, scikit-learn.
 
-![](/images/incubation%20days-%20histogram.png)
 ![](/images/Research%20papers%20abstract%20wordcloud.png)
 
 
